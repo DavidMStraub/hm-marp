@@ -20,3 +20,7 @@ Note: you do not have to download any image file, as the HM logo is embedded in 
 ### Specify theme in Markdown
 
 Simply add `theme: hm` to the YAML frontmatter of your Markdown file.
+
+## Preview
+
+Download the [example.html](https://github.com/DavidMStraub/hm-marp/blob/main/example.html) file and open it in your browser to see a preview of the theme.
