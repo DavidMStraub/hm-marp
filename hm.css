@@ -79,3 +79,7 @@ footer::before {
     position: relative;
     top: 15px;
 }
+
+table {
+    font-size: 0.8em;
+}
