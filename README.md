@@ -13,6 +13,9 @@ This is a minimalistic [Marp](https://marp.app/) theme in the style of [HM Hochs
 ```
 https://raw.githubusercontent.com/DavidMStraub/hm-marp/refs/heads/main/hm.css
 ```
+
+- When using [Marp Slides for Obsidian](https://github.com/samuele-cozzi/obsidian-marp-slides), download the `hm.css` file and add it to your vault. Then, add the path of the folder containing the CSS, *relative to the vault root* and including a trailing slash, to the "Marp Slides: Theme Path" plugin setting, e.g. `MarpCss/`.
+
 - When using Marp CLI, simply download the `hm.css` file and use it with the `--theme` option
 
 Note: you do not have to download any image file, as the HM logo is embedded in the CSS.
