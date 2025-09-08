@@ -33,3 +33,13 @@ def example_function():
 - Punkt 3
 
 $$\mathcal L= -\frac{1}{4}F_{\mu\nu}F^{\mu\nu}$$
+
+---
+
+## Folie mit Tabelle
+
+| Spalte 1 | Spalte 2 | Spalte 3 |
+|----------|----------|----------|
+| Wert 1   | Wert 2   | Wert 3   |
+| Wert 4   | Wert 5   | Wert 6   |
+| Wert 7   | Wert 8   | Wert 9   |
